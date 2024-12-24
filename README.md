@@ -1,0 +1,2 @@
+### Project Description
+This project develops an intelligent spell checker that leverages Natural Language Processing and n-gram language models to detect and correct spelling errors. The system combines advanced NLP techniques for text processing with statistical language patterns to understand word context. By analyzing both word similarity and contextual probability, it provides accurate spelling suggestions that maintain semantic coherence in sentences.
